@@ -10,7 +10,7 @@ class AdaptiveScreenOrientation extends StatelessWidget {
     this.tabletLandscape,
     this.desktop,
     this.tabletBreakpoint = 768,
-    this.desktopBreakpoint = 1280,
+    this.desktopBreakpoint = 1024,
   });
 
   /// If true, will use the available layout instead of the specified layout.
